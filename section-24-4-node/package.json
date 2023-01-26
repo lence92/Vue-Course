@@ -1,0 +1,16 @@
+{
+  "name": "section-24-4-node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Lenche Petkovska",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

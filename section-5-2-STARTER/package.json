@@ -1,0 +1,32 @@
+{
+  "name": "section-5-2-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "keywords": [],
+  "author": "Lenche Petkovska",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "autoprefixer": "^10.4.2",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "mini-css-extract-plugin": "^2.4.6",
+    "node-sass": "^7.0.1",
+    "postcss-loader": "^6.2.1",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
